@@ -17,8 +17,8 @@ The Gemfiles in the [online version](https://www.railstutorial.org/book) should 
 
 *Note*: The easiest way to copy a Gemfile is to click on the relevant link and then select “Raw”. 
 
-![Finding the raw version of a Gemfile](https://cdn.learnenough.com/finding_raw_version.png)
+![Finding the raw version of a Gemfile](https://cdn.learnenough.com/finding_raw_version_7th.png)
 
 Selecting all (Ctrl/Cmd-A, depending on system) and copying (Ctrl/Cmd-C) then lets you paste (Ctrl/Cmd-V) into your application’s Gemfile.
 
-![The raw version of a Gemfile](https://cdn.learnenough.com/raw_version.png)
+![The raw version of a Gemfile](https://cdn.learnenough.com/raw_version_7th.png)
